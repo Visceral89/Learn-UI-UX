@@ -8,7 +8,8 @@ body{
   width: 100vw;
   background: linear-gradient(117.84deg, rgba(128, 0, 255, 0.4) 4.45%, #8000FF 95.12%);
   color: white;
-  font-family: 'Lemon', sans-serif;
+  font-family: sans-serif;
+  /*font-family: 'Comic Sans MS', "Comic Sans", cursive ;*/
 
 
 }
