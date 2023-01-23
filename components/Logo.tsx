@@ -1,11 +1,9 @@
-import React from "react";
+import React from 'react'
 
 const Logo = () => {
-	return (
-		<div className="mr-64 flex flex-row items-start justify-end gap-10 px-64 py-16 text-2xl font-bold">
-			<h1>COURSERA</h1>
-		</div>
-	);
-};
+  return (
+    <div className="flex flex-row items-start px-64 py-16 gap-10 font-bold text-2xl justify-end mr-64"><h1>COURSERA</h1></div>
+  )
+}
 
-export default Logo;
+export default Logo
