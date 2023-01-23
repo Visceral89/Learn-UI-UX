@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("https://fonts.googleapis.com/css2?family=Lemon&display=swap");
+
 body {
 	height: 100vh;
 	width: 100vw;
@@ -11,6 +13,5 @@ body {
 		#8000ff 95.12%
 	);
 	color: white;
-	font-family: "lemon", sans-serif;
-	/*font-family: 'Comic Sans MS', "Comic Sans", cursive ;*/
+	/*font-family: 'Lemon';*/
 }
